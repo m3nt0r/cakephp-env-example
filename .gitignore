@@ -1,0 +1,3 @@
+cake_core_*
+*.log
+tmp/sessions/s*
